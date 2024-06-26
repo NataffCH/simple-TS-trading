@@ -1,8 +1,3 @@
-# simple-trader
-Simple prototype trading bot using Manifold API.
-
-The strategy implemented here polls a market for updates and then bets the price will revert. 
-
 # Run this bot!
 
 1. Clone the repository
